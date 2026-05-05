@@ -1,1 +1,5 @@
- __pycache__
+# exclude virtual environment files
+__pycache__  # exclude virtual environment files
+*.pyc  # exclude Python bytecode files
+# exclude data files
+*  # exclude all data files
